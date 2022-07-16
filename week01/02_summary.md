@@ -125,9 +125,9 @@ deb https://mirrors.tuna.tsinghua.edu.cn/ubuntu/ focal-security main restricted 
 >参考文件: 03_vscode_config.md
 
 + 需安装的插件
-![插件](https://github.com/ZhangXvji/pictures/raw/master/hitcrt_sm_01.png)
+![插件](https://img1.imgtp.com/2022/07/16/QsosOqwj.png)
 
 3.参考文件对settings进行修改
 
 + 修改结果
-![settings](https://github.com/ZhangXvji/pictures/raw/master/hitcrt_sm_02.png)
+![settings](https://img1.imgtp.com/2022/07/16/6LbczLzt.png)
